@@ -1,0 +1,12 @@
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\ClassLibrary1\bin\Debug\net5.0\CL1.deps.json
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\ClassLibrary1\bin\Debug\net5.0\CL1.dll
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\ClassLibrary1\bin\Debug\net5.0\ref\CL1.dll
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\ClassLibrary1\bin\Debug\net5.0\CL1.pdb
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\ClassLibrary1\obj\Debug\net5.0\CL1.dll
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\ClassLibrary1\obj\Debug\net5.0\ref\CL1.dll
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\ClassLibrary1\obj\Debug\net5.0\CL1.pdb

@@ -1,0 +1,6 @@
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Domain\bin\Debug\Liv.Domain.dll
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Domain\bin\Debug\Liv.Domain.pdb
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Domain\obj\Debug\Livraria.Domain.csproj.AssemblyReference.cache
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Domain\obj\Debug\Livraria.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Domain\obj\Debug\Liv.Domain.dll
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Domain\obj\Debug\Liv.Domain.pdb

@@ -1,0 +1,6 @@
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Infra\bin\Debug\Livraria.Infra.dll
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Infra\bin\Debug\Livraria.Infra.pdb
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Infra\obj\Debug\Livraria.Infra.csproj.AssemblyReference.cache
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Infra\obj\Debug\Livraria.Infra.csproj.CoreCompileInputs.cache
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Infra\obj\Debug\Livraria.Infra.dll
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Infra\obj\Debug\Livraria.Infra.pdb

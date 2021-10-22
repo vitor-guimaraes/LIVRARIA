@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EI+5mbBjlEoErOH2xgiXkczsfd9pJjmPOYiZaPTsYLUIN/1mhYDd5NtN9UCY50eVxrrxe1gx0SFiD2Lx86ahaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vitor.guimaraes\\Desktop\\c# crud\\Livraria\\ClassLibrary1\\Livraria.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitor.guimaraes\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

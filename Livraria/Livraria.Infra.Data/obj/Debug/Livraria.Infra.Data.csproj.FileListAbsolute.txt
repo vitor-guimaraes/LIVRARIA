@@ -1,0 +1,13 @@
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Infra.Data\bin\Debug\Livraria.Infra.Data.dll
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Infra.Data\bin\Debug\Livraria.Infra.Data.pdb
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Infra.Data\bin\Debug\Liv.Domain.dll
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Infra.Data\bin\Debug\Livraria.Infra.dll
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Infra.Data\bin\Debug\System.Data.Common.dll
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Infra.Data\bin\Debug\System.Data.SqlClient.dll
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Infra.Data\bin\Debug\Liv.Domain.pdb
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Infra.Data\bin\Debug\Livraria.Infra.pdb
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Infra.Data\obj\Debug\Livraria.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Infra.Data\obj\Debug\Livraria.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Infra.Data\obj\Debug\Livraria.Infra.Data.csproj.CopyComplete
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Infra.Data\obj\Debug\Livraria.Infra.Data.dll
+C:\Users\vitor.guimaraes\Desktop\c# crud\Livraria\Livraria.Infra.Data\obj\Debug\Livraria.Infra.Data.pdb
