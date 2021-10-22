@@ -24,5 +24,15 @@ namespace Livraria.Domain.Entidades
             Isbn = isbn;
             Imagem = imagem;
         }
+
+        //public void TrocarNomeLivro(string NovoNome)
+        //{
+        //    this.Nome = NovoNome;
+        //}
+
+        public void SetarId( long id)
+        {
+            this.Id = id;
+        }
     }
 }

@@ -16,6 +16,7 @@ namespace Livraria.Infra.Data.Repositories.Queries
         public static String Excluir = @"Delete From Livro where Id=@Id";
         
         public static String Listar = @"Select 
+                                        Id as Id, 
                                         Nome as Nome, 
                                         Autor as Autor, 
                                         Edicao as Edicao, 
